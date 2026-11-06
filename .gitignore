@@ -1,0 +1,7 @@
+.cursor/
+*.tmp
+*.tmp.png
+_tmp/
+_tmp.zip
+_pptx_extract/
+_pptx.zip
